@@ -1,2 +1,9 @@
-# ejercicios-25022026-DFD.
-Trabajo en DFD en grupo Santiago Morelos Y Gabriel Feria 
+# Ejercicios 25/02/2026 - DFD
+
+##Integrantes 
+
+-Santiago Melgarejo
+-Gabriel Feria
+
+##Tema
+Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
